@@ -5,7 +5,7 @@ public enum Category {
     MOVEMENT("Movement"),
     VISUAL("Visual"),
     VFX("VFX"),
-    VFX("VFX"),
+    VFX0("VFX0"),
     COSMETIC("Cosmetic"),
     CLIENT("Client");
 
